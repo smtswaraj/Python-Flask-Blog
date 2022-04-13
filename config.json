@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingsmt",
+    "prod_uri": "mysql://root:@localhost/codingsmt",
+    "fb_url": "https://facebook.com/codingsmt",
+    "tw_url": "https://twitter.com/codingsmt",
+    "gh_url": "https://github.com/codingsmt",
+    "blog_name": "TheCodingSMT",
+    "tag_line": "A Blog like by Programmers",
+    "gmail-user": "username dado",
+    "gmail-password": "password dado",
+    "about_text": "Hi my name is  swaraj and i create a programming tutorials and i am a good boy",
+    "no_of_posts": 2,
+    "login_image": "login.svg",
+    "admin_user": "swaraj",
+    "admin_password": "admin",
+    "upload_location": "C:\\Users\\Swaraj Nayak\\Desktop\\Ai\\Flask\\static"
+  }
+
+}
